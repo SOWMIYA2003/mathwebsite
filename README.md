@@ -240,7 +240,7 @@ Publish the website in the given URL.
 ![output](./calculations/output7.png)
 ![output](./calculations/output8.png)
 
-## OUTPUT - WITHOUT ANY ERRORI(calculation 2)
+## OUTPUT - WITHOUT ANY ERROR(calculation 2)
 ![output](./calculations/output9.png)
 
 
