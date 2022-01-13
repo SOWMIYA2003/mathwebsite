@@ -226,7 +226,7 @@ Publish the website in the given URL.
 ![output](./calculations/htmlvali.png)
 
 ## WEBSITE OUTPUT :
-![output](./calculations/output2.png)
+![output](./calculations/mathcal.png)
 
 ## OUTPUT - WITH ERROR MESSEGE(calculation 1)
 ![output](./calculations/output3.png)
