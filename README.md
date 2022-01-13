@@ -221,7 +221,28 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![output1](./htmlvali.png)
+## HTML VALIDATOR :
+
+![output](./calculations/htmlvali.png)
+
+## WEBSITE OUTPUT :
+![output](./calculations/output2.png)
+
+## OUTPUT - WITH ERROR MESSEGE(calculation 1)
+![output](./calculations/output3.png)
+![output](./calculations/output4.png)
+
+## OUTPUT - WITHOUT ANY ERROR(calculation 1)
+![output](./calculations/output5.png)
+
+## OUTPUT - WITH ERROR MESSEGE(calculation 2)
+![output](./calculations/output6.png)
+![output](./calculations/output7.png)
+![output](./calculations/output8.png)
+
+## OUTPUT - WITHOUT ANY ERRORI(calculation 2)
+![output](./calculations/output9.png)
+
 
 ## Result:
 
